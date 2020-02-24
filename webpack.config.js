@@ -150,7 +150,7 @@ module.exports = {
         use: ['file-loader']
       },
       {
-        test: /\.(ttf|woff|woff2|eot)$/,
+        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
         use: ['file-loader']
       },
       {
