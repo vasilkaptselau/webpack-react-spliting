@@ -8,7 +8,7 @@
 </div>
 
 
-## Build Setup:
+## Setup up project:
 
 ``` Terminal
 # Download repository:
